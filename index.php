@@ -8,7 +8,7 @@ welcome! I love my mon and dad
 
 <?php
 echo "Hello World Akansha ";
-?>
+php?>
 
 </body>
 </html>
