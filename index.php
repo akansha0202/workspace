@@ -7,7 +7,7 @@ welcome! I love my mon and dad
 </h1>
 
 <?php
-echo "Hello Worl Akansha  ";
+echo "Hello Worl Akansha rani ";
 ?>
 
 </body>
